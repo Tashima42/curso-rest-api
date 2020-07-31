@@ -1,0 +1,17 @@
+{
+  "name": "curso-rest-api",
+  "version": "1.0.0",
+  "description": "curso de rest api da cod3r",
+  "main": "index.js",
+  "repository": "https://github.com/Tashima42/curso-rest-api.git",
+  "author": "Pedro Tashima <pedrotashima42@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/yargs": "^15.0.5",
+    "typescript": "^3.9.7",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.27"
+  }
+}
